@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
-    <GenerateProgramFile>false</GenerateProgramFile>
+    <IsPackable>false</IsPackable>
   </PropertyGroup>
 
   <ItemGroup>
@@ -12,6 +12,10 @@
   <PackageReference Include="NUnit3TestAdapter" Version="3.10.0" />
   <PackageReference Include="Selenium.Firefox.WebDriver" Version="0.20.0" />
   <PackageReference Include="Selenium.WebDriver" Version="3.12.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SeleniumDemo.Web\SeleniumDemo.Web.csproj" />
   </ItemGroup>
 
 </Project>

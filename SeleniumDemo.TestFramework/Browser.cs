@@ -17,7 +17,7 @@ namespace SeleniumDemo.TestFramework
 
         public static string MainPage()
         {
-            return "https://localhost:44336/";
+           return "https://localhost:yourPort/";
         }
     }
 }

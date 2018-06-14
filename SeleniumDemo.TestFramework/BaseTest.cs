@@ -4,7 +4,7 @@ using OpenQA.Selenium.Remote;
 namespace SeleniumDemo.TestFramework
 {
     [TestFixture]
-    public class BaseTest
+    public abstract class BaseTest
     {
         protected RemoteWebDriver driver;
 
