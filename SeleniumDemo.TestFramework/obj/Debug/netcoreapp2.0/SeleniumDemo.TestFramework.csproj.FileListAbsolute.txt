@@ -1,0 +1,4 @@
+C:\Users\Mario\source\repos\SeleniumDemo\SeleniumDemo.TestFramework\obj\Debug\netcoreapp2.0\SeleniumDemo.TestFramework.csprojAssemblyReference.cache
+C:\Users\Mario\source\repos\SeleniumDemo\SeleniumDemo.TestFramework\obj\Debug\netcoreapp2.0\SeleniumDemo.TestFramework.csproj.CoreCompileInputs.cache
+C:\Users\Mario\source\repos\SeleniumDemo\SeleniumDemo.TestFramework\obj\Debug\netcoreapp2.0\SeleniumDemo.TestFramework.AssemblyInfoInputs.cache
+C:\Users\Mario\source\repos\SeleniumDemo\SeleniumDemo.TestFramework\obj\Debug\netcoreapp2.0\SeleniumDemo.TestFramework.AssemblyInfo.cs
