@@ -1,15 +1,12 @@
 ﻿using NUnit.Framework;
 using SeleniumDemo.TestFramework.Pages;
 using SeleniumDemo.TestFramework;
+using Microsoft.Extensions.Configuration;
 
 namespace SeleniumDemo.Tests
 {
-    public class RegisterLoginTests : BaseTest
+    public class AuthenticationTests : BaseTest
     {
-        public RegisterLoginTests()
-        {
-        }
-
         [Test]
         [Order(1)]
         public void Register()

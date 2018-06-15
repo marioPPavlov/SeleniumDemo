@@ -1,4 +1,5 @@
-﻿using NUnit.Framework;
+﻿using Microsoft.Extensions.Configuration;
+using NUnit.Framework;
 using OpenQA.Selenium.Remote;
 
 namespace SeleniumDemo.TestFramework
@@ -7,6 +8,7 @@ namespace SeleniumDemo.TestFramework
     public abstract class BaseTest
     {
         protected RemoteWebDriver driver;
+
 
         [SetUp]
         public void Initialize()

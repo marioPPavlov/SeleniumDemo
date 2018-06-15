@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.AspNetCore.Mvc.ViewFeatures;
 
-namespace SeleniumTest.Views.Manage
+namespace SeleniumDemo.Web.Views.Manage
 {
     public static class ManageNavPages
     {
