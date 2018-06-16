@@ -1,5 +1,3 @@
-using System;
-
 namespace SeleniumDemo.Web.Models
 {
     public class ErrorViewModel

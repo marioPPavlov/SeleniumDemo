@@ -1,7 +1,5 @@
 ﻿using OpenQA.Selenium.Firefox;
 using OpenQA.Selenium.Remote;
-using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.DependencyInjection;
 
 namespace SeleniumDemo.TestFramework
 {
